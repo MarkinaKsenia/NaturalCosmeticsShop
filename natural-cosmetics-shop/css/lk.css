@@ -1,0 +1,48 @@
+
+.btn_logout{
+    position: absolute;
+    height: 30px;
+    left: 480px;
+    top: 110px;
+    background: white;
+    border:1px solid rgba(217, 43, 120, 1);
+    width: 100px;
+    border-radius: 25px;
+  }
+  
+  .btn_logout:hover{
+    background: rgba(194, 6, 128, 1);
+    color:white;
+  }
+
+  
+.btn_save{
+    position: absolute;
+    height: 40px;
+    left: 445px;
+    top: 370px;
+    background: white;
+    border:1px solid rgba(217, 43, 120, 1);
+    width: 200px;
+    border-radius: 25px;
+  }
+  
+  .btn_save:hover{
+    background: rgba(194, 6, 128, 1);
+    color:white;
+  }
+
+  .up{
+      border-radius: 5px;
+      border-color:rgba(194, 6, 128, 1);
+      font-size: 18px;
+  }
+
+  #user {
+      color: rgba(139, 11, 94, 0.795);
+  }
+
+  .table {
+      border-radius: 7px;
+      border-color: rgb(160, 2, 147);
+  }
